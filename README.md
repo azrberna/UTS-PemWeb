@@ -1,23 +1,8 @@
-# LuminaRead — Sistem Katalog & Penyewaan E-Book (PHP 8.x OOP)
 
-Aplikasi web interaktif berbasis **PHP 8.x Native OOP** (tanpa framework) yang terintegrasi dengan antarmuka **HTML5, CSS3, dan Vanilla JavaScript (Fetch API)** untuk mengelola katalog media digital, keanggotaan member, serta transaksi penyewaan dan pengembalian.
-
-**Identitas Mahasiswa:**
 * **Nama:** Aminatus Zarodiyah Riberna
 * **NIM:** 202410370110160
 * **Program Studi:** Informatika
 
----
-
-## Pratinjau Antarmuka Aplikasi
-
-### 1. Halaman Utama & Katalog Koleksi
-![Tampilan Dashboard LuminaRead](screenshots/dashboard.png)
-
-### 2. Riwayat Penyewaan & Pengembalian
-![Tampilan Riwayat Transaksi](screenshots/transaksi.png)
-
----
 
 ## Implementasi Konsep PHP OOP
 
