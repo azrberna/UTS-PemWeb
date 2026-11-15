@@ -1,0 +1,13 @@
+[
+    {
+        "id": "INV-26D3E",
+        "userId": "MBR-E2C",
+        "userName": "Dica Darric",
+        "mediaId": "BK-102",
+        "mediaTitle": "Designing Data-Intensive Applications",
+        "days": 5,
+        "totalPrice": 30000,
+        "status": "returned",
+        "borrowedAt": "2026-11-15 12:42"
+    }
+]

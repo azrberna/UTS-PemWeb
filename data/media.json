@@ -1,0 +1,122 @@
+[
+    {
+        "id": "BK-101",
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "category": "Pemrograman",
+        "dailyRate": 6000,
+        "stock": 9,
+        "mediaType": "E-Book",
+        "type": "ebook",
+        "extraInfo": "464 Halaman",
+        "pageCount": 464
+    },
+    {
+        "id": "BK-102",
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "category": "Arsitektur Sistem",
+        "dailyRate": 7500,
+        "stock": 7,
+        "mediaType": "E-Book",
+        "type": "ebook",
+        "extraInfo": "616 Halaman",
+        "pageCount": 616
+    },
+    {
+        "id": "BK-103",
+        "title": "The Pragmatic Programmer (20th Anniversary Edition)",
+        "author": "Andrew Hunt & David Thomas",
+        "category": "Pemrograman",
+        "dailyRate": 6500,
+        "stock": 6,
+        "mediaType": "E-Book",
+        "type": "ebook",
+        "extraInfo": "352 Halaman",
+        "pageCount": 352
+    },
+    {
+        "id": "BK-104",
+        "title": "Refactoring: Improving the Design of Existing Code",
+        "author": "Martin Fowler",
+        "category": "Software Engineering",
+        "dailyRate": 7000,
+        "stock": 3,
+        "mediaType": "E-Book",
+        "type": "ebook",
+        "extraInfo": "448 Halaman",
+        "pageCount": 448
+    },
+    {
+        "id": "BK-105",
+        "title": "Don't Make Me Think, Revisited",
+        "author": "Steve Krug",
+        "category": "UI\/UX Design",
+        "dailyRate": 5500,
+        "stock": 5,
+        "mediaType": "E-Book",
+        "type": "ebook",
+        "extraInfo": "216 Halaman",
+        "pageCount": 216
+    },
+    {
+        "id": "BK-106",
+        "title": "System Design Interview \u2013 An Insider's Guide",
+        "author": "Alex Xu",
+        "category": "Arsitektur Sistem",
+        "dailyRate": 7000,
+        "stock": 4,
+        "mediaType": "E-Book",
+        "type": "ebook",
+        "extraInfo": "322 Halaman",
+        "pageCount": 322
+    },
+    {
+        "id": "AU-201",
+        "title": "Atomic Habits (Unabridged Audio Edition)",
+        "author": "James Clear",
+        "category": "Pengembangan Diri",
+        "dailyRate": 8000,
+        "stock": 4,
+        "mediaType": "AudioBook",
+        "type": "audiobook",
+        "extraInfo": "315 Menit",
+        "durationMinutes": 315
+    },
+    {
+        "id": "AU-202",
+        "title": "The Phoenix Project: A Novel About IT & DevOps",
+        "author": "Gene Kim & Kevin Behr",
+        "category": "Manajemen IT",
+        "dailyRate": 8500,
+        "stock": 3,
+        "mediaType": "AudioBook",
+        "type": "audiobook",
+        "extraInfo": "410 Menit",
+        "durationMinutes": 410
+    },
+    {
+        "id": "AU-203",
+        "title": "Deep Work: Rules for Focused Success",
+        "author": "Cal Newport",
+        "category": "Produktivitas",
+        "dailyRate": 8000,
+        "stock": 5,
+        "mediaType": "AudioBook",
+        "type": "audiobook",
+        "extraInfo": "464 Menit",
+        "durationMinutes": 464
+    },
+    {
+        "id": "AU-204",
+        "title": "The Psychology of Money (Audio Edition)",
+        "author": "Morgan Housel",
+        "category": "Bisnis & Keuangan",
+        "dailyRate": 7500,
+        "stock": 4,
+        "mediaType": "AudioBook",
+        "type": "audiobook",
+        "extraInfo": "348 Menit",
+        "durationMinutes": 348
+    }
+]

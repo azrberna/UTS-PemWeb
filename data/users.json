@@ -1,0 +1,37 @@
+[
+    {
+        "id": "MBR-01",
+        "name": "Aminatus Zarodiyah",
+        "email": "amina@luminaread.id",
+        "tier": "Premium",
+        "maxLimit": 5
+    },
+    {
+        "id": "MBR-02",
+        "name": "Raka Pratama",
+        "email": "raka.pratama@gmail.com",
+        "tier": "Regular",
+        "maxLimit": 2
+    },
+    {
+        "id": "MBR-03",
+        "name": "Nadia Kusuma",
+        "email": "nadia.kusuma@outlook.com",
+        "tier": "Premium",
+        "maxLimit": 5
+    },
+    {
+        "id": "MBR-AD7",
+        "name": "Dica Darric",
+        "email": "darric@gmail.com",
+        "tier": "Regular",
+        "maxLimit": 2
+    },
+    {
+        "id": "MBR-E2C",
+        "name": "Dica Darric",
+        "email": "darric@gmail.com",
+        "tier": "Premium",
+        "maxLimit": 5
+    }
+]
